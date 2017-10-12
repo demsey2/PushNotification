@@ -6,7 +6,10 @@
   "author": "-",
   "license": "Apache-2.0",
   "devDependencies": {},
-  "repo": "https://github.com/demsey2/PushNotification.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demsey2/PushNotification.git"
+  },
   "issue": "https://github.com/demsey2/PushNotification/issues",
   "keywords": [
     "Push",
